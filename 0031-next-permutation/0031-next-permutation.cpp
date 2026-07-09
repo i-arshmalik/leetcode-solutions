@@ -26,7 +26,6 @@ public:
                 break;
             }
         }
-        int i = pivot+1 , j = n-1;
        reverse(nums.begin() + pivot +1 , nums.end());
     }
     }
