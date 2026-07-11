@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/i-arshmalik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
