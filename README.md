@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-arshmalik/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3467-transform-array-by-parity](https://github.com/i-arshmalik/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0169-majority-element) |
+| [3467-transform-array-by-parity](https://github.com/i-arshmalik/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0169-majority-element) |
+| [3467-transform-array-by-parity](https://github.com/i-arshmalik/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
