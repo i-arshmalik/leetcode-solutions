@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-arshmalik/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3467-transform-array-by-parity](https://github.com/i-arshmalik/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0443-string-compression) |
 ## Math
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/i-arshmalik/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
